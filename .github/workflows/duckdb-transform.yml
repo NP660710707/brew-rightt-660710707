@@ -47,4 +47,8 @@ jobs:
         with:
           name: duckdb-output
           path: out/*
+<<<<<<< HEAD
           if-no-files-found: error
+=======
+          if-no-files-found: error
+>>>>>>> b54242b0e77dc43f3aac4c58471d3744e63e92da
